@@ -1,3 +1,7 @@
+> **Data repository.** The executable code that used to live here was moved on 2026-10-24 to
+> [`red-cup-engineering/frontstage`](https://github.com/red-cup-engineering/frontstage), which reads this data
+> (point it here with `SECTION_DATA_ROOT`, default current working directory). This repository holds data only.
+
 # frontstage
 
 <!-- 561-group-standards:badges:start -->
